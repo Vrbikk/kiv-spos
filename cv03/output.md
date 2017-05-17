@@ -14,4 +14,34 @@
 
 ## Kontrola
 
-Spusteni scriptu, ktery overi nastaveni (ruzne kombinace `host` / `dig`)
+Spusteni scriptu, ktery overi nastaveni (ruzne kombinace `host` / `dig`)host -t PTR 192.168.255.55
+host -t MX avrba.spos-test.spos
+host www.avrba.spos-test.spos
+host server.avrba.spos-test.spos
+host spos-test.spos
+host -t TXT avrba.spos-test.sposhost -t PTR 192.168.255.55
+host -t MX avrba.spos-test.spos
+host www.avrba.spos-test.spos
+host server.avrba.spos-test.spos
+host spos-test.spos
+host -t TXT avrba.spos-test.sposhost -t PTR 192.168.255.55
+host -t MX avrba.spos-test.spos
+host www.avrba.spos-test.spos
+host server.avrba.spos-test.spos
+host spos-test.spos
+host -t TXT avrba.spos-test.sposhost -t PTR 192.168.255.55
+host -t MX avrba.spos-test.spos
+host www.avrba.spos-test.spos
+host server.avrba.spos-test.spos
+host spos-test.spos
+host -t TXT avrba.spos-test.sposhost -t PTR 192.168.255.55
+host -t MX avrba.spos-test.spos
+host www.avrba.spos-test.spos
+host server.avrba.spos-test.spos
+host spos-test.spos
+host -t TXT avrba.spos-test.sposhost -t PTR 192.168.255.55
+host -t MX avrba.spos-test.spos
+host www.avrba.spos-test.spos
+host server.avrba.spos-test.spos
+host spos-test.spos
+host -t TXT avrba.spos-test.spos
